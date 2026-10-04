@@ -5,7 +5,7 @@ Model-release period represented: 2023–2026
 LiveBench editions used: June 2024–June 2026  
 Reference edition: LiveBench 2026-06-25  
 Primary outcome: Historical frontier performance by capability  
-Secondary outcome: Descriptive benchmark-relative rate of frontier improvement
+Secondary outcome: Descriptive benchmark-relative rate of frontier improvement    
 Datasets & Reproducible Code: https://github.com/epheva/AI_capabilities 
 
 ---
