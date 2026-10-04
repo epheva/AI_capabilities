@@ -123,7 +123,7 @@ However, the categories contain different tasks and are not formally calibrated 
 
 ## Relationship to Epoch AI's ECI
 
-Epoch AI's Epoch Capabilities Index uses overlapping model evaluations to place many heterogeneous benchmarks onto a common capability scale. This project uses the same broad identification idea—that shared models can connect different measuring instruments—but applies it locally between successive versions of each LiveBench category.
+Epoch AI's Epoch Capabilities Index uses overlapping model evaluations to place many heterogeneous benchmarks onto a common capability scale. This project uses the same broad identification idea, that shared models can connect different measuring instruments, but applies it locally between successive versions of each LiveBench category.
 
 The main distinction is longitudinal. Each LiveBench category is reconstructed independently through time, allowing Mathematics, Coding, Reasoning, Language, Data Analysis, Instruction Following, and Agentic Coding to exhibit different historical trajectories and fitted rates of change.
 
@@ -149,8 +149,3 @@ The smooth curves in the first figure are display-only, shape-preserving interpo
 - Habba, E., Itzhak, I., Yehudai, A., et al. *Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration.* 2026. https://arxiv.org/abs/2604.12843
 - METR, *Time Horizon 1.1.* 2026. https://metr.org/blog/2026-1-29-time-horizon-1-1/
 
----
-
-## Author
-
-Aedan Li
